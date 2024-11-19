@@ -1,8 +1,5 @@
-<!-- CountdownTimer.svelte -->
 <script>
     import { onMount, onDestroy } from 'svelte';
-    
-    // Set target date (example: New Year's 2025)
     const targetDate = new Date('2024-11-20T18:00:00');
     
     let days = 0;
