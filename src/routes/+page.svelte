@@ -1,6 +1,6 @@
 <script>
     import { onMount, onDestroy } from 'svelte';
-    const targetDate = new Date('2024-11-20T18:00:00');
+    const targetDate = new Date('2024-11-21T18:00:00');
     
     let days = 0;
     let hours = 0;
